@@ -1,4 +1,4 @@
-class NumberOfIslands {
+class NumberOfIslands{
     public int numIslands(char[][] grid) {
         int rows=grid.length;
         int cols=grid[0].length;
